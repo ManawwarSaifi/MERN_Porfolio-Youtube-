@@ -1,0 +1,14 @@
+TECHS/FUNCTIONALITY USED IN THIS PROJECT
+
+1.useState Hook
+2.useContext Hook (for themes )
+3.IconScout(for the icons)
+4.Framer Motion(for the animation)
+5.react smooth scroll(for the smooth scroll)
+5. CSS3(for style) 
+6.Email js (React email js lib to make contact) 7 Swiper js (for the slides )
+8.  .Ray deployement
+
+
+
+start from 01:35:00 mint
